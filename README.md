@@ -1,6 +1,6 @@
 # Lib for smsc.ua
 
-This package provides a set of reusable validation rules for your Laravel projects. Use them to augment the existing set provided by Laravel itself.
+This package provides a set of functions to use smsc.ua API.
 
 ## Installation
 
