@@ -1,3 +1,5 @@
+# In devlopment. Do not use on production!
+
 # Lib for smsc.ua
 
 This package provides a set of functions to use smsc.ua API.
